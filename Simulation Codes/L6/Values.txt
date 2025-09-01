@@ -1,0 +1,29 @@
+Part (a) 
+
+Robust response time
+ Kc = 9.8*0.020795 = 0.2038;
+ tau_i= 9.8;
+ err = 9.1421
+
+Skogestad IMC 
+ Kc = 9.9*0.029138 = 0.2885;
+ tau_i= 9.9;
+ err = 9.1080 (min error = best performance matrix)
+
+Zeigler-Nichols step response
+ Kc = 8.6*0.060566 = 0.5209;
+ tau_i= 8.6;
+ err = 14.1162
+
+Part (b)
+
+Skogestad IMC
+ Kc = 9.9*0.026 = 0.2574;
+ tau_i= 9.9;
+ err = 8.9815;
+
+Zeigler-Nichols step response
+ Kc = 8.6*0.02515 = 0.2163;
+ tau_i= 8.6;
+ err =  9.4539
+
